@@ -1,0 +1,9 @@
+HASIL PENGUJIAN
+
+Jalankan perintah berikut di terminal pada folder tugas:
+
+    php test.php
+
+File test.php berisi enam skenario pengujian. Setelah dijalankan, periksa apakah setiap skenario menampilkan [LULUS].
+
+Catatan: hasil belum ditandai berhasil di sini karena program perlu dijalankan di komputer yang sudah memiliki PHP. Ambil screenshot dari hasil yang benar-benar muncul di terminal komputer sendiri.
